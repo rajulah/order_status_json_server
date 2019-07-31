@@ -4,49 +4,58 @@
     "userName" : "Harish R",
     "orderDate" : "2 Aug 2019",
     "amount" : 577.90,
-    "status" : "Paid"},
+    "status" : "Paid",
+    "badgeClass" : "success"  
+  },
   { 
   "invoice" : 53432,
     "userName" : "Sampath",
     "orderDate" : "3 Aug 2019",
     "amount" : 800,
-    "status" : "Paid"
+    "status" : "Paid",
+    "badgeClass" : "success" 
   },
     {
    "invoice" : 53433,
     "userName" : "Raja",
     "orderDate" : "4 Aug 2019",
     "amount" : 700,
-    "status" : "Refunded" },
+    "status" : "Refunded" ,
+    "badgeClass" : "danger" },
        {
    "invoice" : 53434,
     "userName" : "Chinmay",
     "orderDate" : "5 Aug 2019",
     "amount" : 900,
-    "status" : "Paid" },
+    "status" : "Paid" ,
+       "badgeClass" : "success" },
         {
    "invoice" : 53435,
     "userName" : "Bypina",
     "orderDate" : "5 Aug 2019",
     "amount" : 102.6,
-    "status" : "Refunded" },
+    "status" : "Refunded" ,
+        "badgeClass" : "danger" },
             {
    "invoice" : 53436,
     "userName" : "Harish1",
     "orderDate" : "5 Aug 2019",
     "amount" : 110,
-    "status" : "Refunded" },
+    "status" : "Refunded" ,
+            "badgeClass" : "warning" },
             {
    "invoice" : 53437,
     "userName" : "Bypina1",
     "orderDate" : "6 Aug 2019",
     "amount" : 400,
-    "status" : "Paid" },
+    "status" : "Paid" ,
+            "badgeClass" : "success" },
             {
    "invoice" : 53438,
     "userName" : "raja1",
     "orderDate" : "6 Aug 2019",
     "amount" : 6543,
-    "status" : "Paid" }
+    "status" : "Paid" ,
+            "badgeClass" : "light" }
   ]
 }
